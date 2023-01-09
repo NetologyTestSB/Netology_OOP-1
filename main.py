@@ -1,5 +1,5 @@
 #preparation for homework OOP-1
-
+#initial commit
 #variant 2
 class Student:
     def __init__(self, name, surname, gender):
