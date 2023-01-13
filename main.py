@@ -1,4 +1,4 @@
-#homework OOP-2
+#homework OOP-2 13.01.2023
 class Student:
     def __init__(self, name, surname, gender='М'):
         self.name = name
